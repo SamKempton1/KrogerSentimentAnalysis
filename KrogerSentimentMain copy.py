@@ -9,7 +9,7 @@ import seaborn as sns
 from dateutil import parser
 
 
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAJmXiAEAAAAAKpK1xgW86HHqYqN56qOmvANmU%2FE%3D62q8y9QTaLWujXFN0nLjWi1wBco7ub88GgvL5zCCCI75weULhl"
+BEARER_TOKEN = ""
 
 search_url = "https://api.twitter.com/2/tweets/search/recent"
 
